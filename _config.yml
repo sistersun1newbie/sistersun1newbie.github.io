@@ -80,4 +80,4 @@ theme: casual
 deploy:
   type: git
   repo: https://github.com/sistersun1newbie/sistersun1newbie.github.io.git
-  branch: master
+  branch: master1
