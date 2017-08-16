@@ -79,5 +79,5 @@ theme: casual
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/sistersun1newbie/lszHexoBlog.github.io.git
+  repo: https://github.com/sistersun1newbie/sistersun1newbie.github.io.git
   branch: master
